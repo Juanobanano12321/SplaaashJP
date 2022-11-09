@@ -10,7 +10,7 @@
         android:id="@+id/textView14"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hola, bienvenido o algo"
+        android:text="Hola, bienvenido o algo Sai"
         android:textAlignment="center"
         android:textSize="35sp"
         app:layout_constraintBottom_toBottomOf="parent"
